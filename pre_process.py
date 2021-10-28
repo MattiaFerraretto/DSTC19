@@ -20,6 +20,7 @@ import json
 import re
 import textacy.preprocessing.replace as rp
 import textacy.preprocessing.normalize as nr
+from nltk.corpus import stopwords
 
 def cleaner(tweet_text):
 
