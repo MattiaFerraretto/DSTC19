@@ -48,7 +48,7 @@ def clear_tweets(in_f, out_f):
     text_cleaned = []
     for tweet in tweets:
         ids.append(tweet['id'])
-        text_cleaned.append(cleaner(tweet['full_text']))
+        text_cleaned.append(cleaner(tweet['text']))
 
     df = pd.DataFrame(data=dict({'tweets_ids': ids, 'cleaned_text': text_cleaned}))
     df.to_csv(out_f, index=None, header=None)
