@@ -1,6 +1,6 @@
 """
 DSTC19
-Copyright (C) 2021  Mattia Ferraretto <ferrar3tto.mattia@gmail.com>
+Copyright (C) 2021  Mattia Ferraretto <ferraretto.mattia@protonmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
