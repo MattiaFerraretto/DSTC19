@@ -1,5 +1,5 @@
 """
-DSTC19
+SDTH
 Copyright (C) 2021  Mattia Ferraretto <ferraretto.mattia@protonmail.com>
 
 This program is free software: you can redistribute it and/or modify
